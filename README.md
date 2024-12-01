@@ -13,3 +13,5 @@ This project implements **ADA-GP (Adaptive Gradient Prediction)**, a novel appro
 - **Efficiency**: Aims to speed up DNN training without compromising on model accuracy.
 - **Visualization**: Includes visualizations of training, testing, and predicted data to track model performance over time.
 
+##Link to Google Colab notebook
+https://colab.research.google.com/drive/148kh6Aai85luSy6kvlyLQlF0BYZgvaaq?usp=sharing
