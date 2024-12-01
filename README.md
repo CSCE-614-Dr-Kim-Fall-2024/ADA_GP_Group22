@@ -1,5 +1,7 @@
 # ADA-GP: Accelerating DNN Training with Adaptive Gradient Prediction
 
+#Satyajit Mondal 936001412
+
 ## Overview
 
 This project implements **ADA-GP (Adaptive Gradient Prediction)**, a novel approach to accelerate the training of Deep Neural Networks (DNNs) while maintaining high accuracy. ADA-GP utilizes an auxiliary neural network to predict gradients during training, alternating between backpropagation (BP) and gradient prediction (GP). This methodology allows for faster training times by reducing reliance on traditional backpropagation, particularly for large models and datasets.
